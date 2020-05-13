@@ -4,7 +4,7 @@ function greeter(person: string) {
 }
 
 let user = "Jane User";
-console.log(add(1,5))
+console.log(add(112,5))
 console.log(process.cwd())
 // document.body.innerHTML = greeter(user);
 console.log(greeter(user));
